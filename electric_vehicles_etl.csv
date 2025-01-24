@@ -1,79 +1,267 @@
 ,Name,Year,Mileage,Price,Location,Link,Description
-0,Chevrolet Spark Lt,2015,65960,10998.0,Carignan,https://www.hgregoire.com/auto-usage/chevrolet-spark-2015-a-vendre-13929530,N/A
-1,Kia Soul Luxury,2016,77800,13998.0,Vaudreuil-Dorion,https://www.hgregoire.com/auto-usage/kia-soul-2016-a-vendre-13930061,N/A
-2,Smart Fortwo Passion,2018,15800,14798.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/smart-fortwo-2018-a-vendre-13821753,N/A
-3,Toyota Rav4 Hybrid Le+,2017,103574,22998.0,Carignan,https://www.hgregoire.com/auto-usage/toyota-rav4-hybrid-2017-a-vendre-446015,N/A
-4,Toyota Prius ,2018,-1,23895.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/toyota-prius-2018-a-vendre-13976187,N/A
-5,Kia Niro ,2019,11555,24495.0,Chicoutimi,https://www.hgregoire.com/auto-usage/kia-niro-2019-a-vendre-5897467,N/A
-6,Mitsubishi Outlander Phev Se,2018,57374,25995.0,Drummondville,https://www.hgregoire.com/auto-usage/mitsubishi-outlander-phev-2018-a-vendre-13932615,N/A
-7,Mitsubishi Outlander Phev ,2018,60579,26495.0,Chicoutimi,https://www.hgregoire.com/auto-usage/mitsubishi-outlander-phev-2018-a-vendre-13826735,N/A
-8,Toyota Rav4 Hybrid ,2017,70702,27495.0,Laval,https://www.hgregoire.com/auto-usage/toyota-rav4-hybrid-2017-a-vendre-13832004,N/A
-9,Hyundai Ioniq ,2020,8894,28695.0,Chicoutimi,https://www.hgregoire.com/auto-usage/hyundai-ioniq-2020-a-vendre-453992,N/A
-10,Toyota Camry Hybrid Se,2019,57565,28895.0,Saint-Jérôme,https://www.hgregoire.com/auto-usage/toyota-camry-2019-a-vendre-13960932,N/A
-11,Kia Optima Ex,2020,18397,28995.0,Victoriaville,https://www.hgregoire.com/auto-usage/kia-optima-2020-a-vendre-13926342,N/A
-12,Audi A3 Premium,2018,32279,30998.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/audi-a3-2018-a-vendre-450344,N/A
-13,Kia Soul Ev Premium,2020,20455,31498.0,Vaudreuil-Dorion,https://www.hgregoire.com/auto-usage/kia-soul-2020-a-vendre-451789,N/A
-14,Lincoln Mkz Select,2019,37028,33995.0,Saint-Jérôme,https://www.hgregoire.com/auto-usage/lincoln-mkz-2019-a-vendre-13831733,N/A
-15,Toyota Rav 4 Hybrid Le,2019,31500,36425.0,Candiac,https://www.hgregoire.com/auto-usage/toyota-rav-4-2019-a-vendre-13932862,N/A
-16,Toyota Rav 4 ,2019,42319,37595.0,Chicoutimi,https://www.hgregoire.com/auto-usage/toyota-rav-4-2019-a-vendre-13833021,N/A
-17,Mercedes Benz Glc Glc 350E,2018,72577,39498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/mercedes-benz-glc-2018-a-vendre-450898,N/A
-18,Tesla Model S ,2016,98742,52998.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/tesla-model-s-2016-a-vendre-371287,N/A
-19,Tesla Model 3 Long Range,2021,198,72595.0,Drummondville,https://www.hgregoire.com/auto-usage/tesla-model-3-2021-a-vendre-13975977,N/A
-20,Tesla Model 3 Long Range,2021,154,72595.0,Drummondville,https://www.hgregoire.com/auto-usage/tesla-model-3-2021-a-vendre-13976696,N/A
-21,Toyota Prius C Hybrid ,2016,97000,15700.0,TBD,https://mtlautoprix.com/inventaire-vehicules/toyota-prius-c-hybrid-2016-b0569/,N/A
-22,Ford C Max Energi Plug-In ,2017,57000,15800.0,TBD,https://mtlautoprix.com/inventaire-vehicules/ford-c-max-energi-plug-in-2017-c0396/,N/A
-23,Ford Fusion Hybrid ,2017,59000,16300.0,TBD,https://mtlautoprix.com/inventaire-vehicules/ford-fusion-hybrid-2017-t0565/,N/A
-24,Chevrolet Volt Plug-In ,2018,132000,17200.0,TBD,https://mtlautoprix.com/inventaire-vehicules/chevrolet-volt-plug-in-2018-c0643/,N/A
-25,Nissan Leaf ,2017,17000,17900.0,TBD,https://mtlautoprix.com/inventaire-vehicules/nissan-leaf-2017-c0660/,N/A
-26,Toyota Prius Hybrid ,2016,71000,18800.0,TBD,https://mtlautoprix.com/inventaire-vehicules/toyota-prius-hybrid-2016-t0580/,N/A
-27,Kia Optima Plug-In ,2017,118000,19500.0,TBD,https://mtlautoprix.com/inventaire-vehicules/kia-optima-plug-in-2017-c0664/,N/A
-28,Chevrolet Volt Plug-In ,2017,72000,19900.0,TBD,https://mtlautoprix.com/inventaire-vehicules/chevrolet-volt-plug-in-2017-da0900/,N/A
-29,Kia Soul Ev Lux ,2018,43000,20900.0,TBD,https://mtlautoprix.com/inventaire-vehicules/kia-soul-ev-lux-2018-b0598/,N/A
-30,Toyota Rav-4 Le Hybrid ,2017,131000,25500.0,TBD,https://mtlautoprix.com/inventaire-vehicules/toyota-rav-4-le-hybrid-2017-c0632/,N/A
-31,Bmw 330E Plug-In ,2017,111000,26000.0,TBD,https://mtlautoprix.com/inventaire-vehicules/bmw-330e-plug-in-2017-b0538/,N/A
-32,Mitsubishi Outlander Phev Plug ,2018,34000,27900.0,TBD,https://mtlautoprix.com/inventaire-vehicules/mitsubishi-outlander-phev-plug-2018-c0656/,N/A
-33,Toyota Rav-4 Le Hybrid ,2018,94000,28800.0,TBD,https://mtlautoprix.com/inventaire-vehicules/toyota-rav-4-le-hybrid-2018-c0661/,N/A
-34,Tesla Model S ,2015,40278,55999.0,TBD,https://www.automobileendirect.com/auto-usage/2015-Tesla-Model S/52649338,85D AWD CUIR MAGS
-35,Nissan Leaf ,2018,33973,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Nissan-LEAF/52327886,S
-36,Tesla Model S ,2015,35508,59999.0,TBD,https://www.automobileendirect.com/auto-usage/2015-Tesla-Model S/52467477,90D AWD TOIT GPS
-37,Tesla Model X ,2017,78301,72999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Tesla-Model X/52377273,75D AUTOPILOT AWD
-38,Bmw I3 ,2017,67508,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-BMW-I3/50222813,Tera World Électrique Cuir GPS Sièges Chauffants
-39,Nissan Leaf ,2020,6121,36999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-Nissan-LEAF/51708269,SL PLUS CUIR
-40,Nissan Leaf ,2018,51615,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Nissan-LEAF/50669151,S CHARGE RAPIDE
-41,Tesla Model S ,2016,71652,89999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-Tesla-Model S/50887240,P100D AWD Électrique Cuir Toit Pano GPS Caméra
-42,Bmw I3 ,2019,15564,36999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-BMW-I3/52274426,Hybride Range Extender Cuir GPS Sièges Chauffants
-43,Nissan Leaf ,2020,8830,36999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-Nissan-LEAF/50690713,SL Plus Électrique A/C Mags Cuir GPS Caméra 360
-44,Bmw I3 ,2018,11505,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-BMW-I3/52575917,Deka World  S Électrique GPS Siègs Chauffants
-45,Bmw I3 ,2018,44116,34999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-BMW-I3/50741274,Range Ext Tera Cuir Toit GPS Caméra
-46,Audi A3 E-Tron ,2017,56093,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Audi-A3 e-Tron/51535859,E-Tron Technik Cuir Toit GPS Sièges Chauffants
-47,Toyota Rav4 Hybrid ,2017,63598,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Toyota-RAV4 Hybrid/51361814,LE+ Hybrid AWD A/C Mags Sièges Chauffants Caméra
-48,Nissan Leaf ,2018,44306,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Nissan-LEAF/51284310,S Électrique A/C Sièges Chauffants Caméra
-49,Hyundai Ioniq Electric Plus ,2019,46271,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Hyundai-IONIQ Electric Plus/51694481,Limited Plug In Hybride Cuir Toit GPS Caméra
-50,Tesla Model S ,2015,133920,48999.0,TBD,https://www.automobileendirect.com/auto-usage/2015-Tesla-Model S/51853216,85D AWD Électrique Autopilote Cuir Toit Pano GPS
-51,Porsche Cayenne ,2018,39930,69999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Porsche-Cayenne/51783567,S E-HYBRID PLATINUM AWD CUIR TOIT MAGS
-52,Lexus Nx ,2017,79060,34999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Lexus-NX/51546558,NX300h Hybride Cuir Toit GPS Sièges Chauffants
-53,Lexus Ux ,2019,21818,39999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Lexus-UX/51588668,UX250h F-Sport AWD Hybride Cuir Toit Caméra
-54,Toyota Camry ,2020,7884,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-Toyota-Camry/51743299,SE Hybrid A/C Mags Cuir Toit Sièges Chauffants
-55,Mitsubishi Outlander Phev ,2018,40422,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Mitsubishi-Outlander PHEV/51621498,SE PHEV Hybride AWD A/C Mags Demi-Cuir Caméra
-56,Porsche Cayenne ,2018,50873,67999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Porsche-Cayenne/51720278,S Platinum Hybrid Cuir Toit Pano GPS Caméra
-57,Toyota Camry Hybrid ,2018,48307,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Toyota-Camry Hybrid/52331443,SE Hybride A/C Mags Cuir Toit Sièges Chauffants
-58,Nissan Leaf ,2019,37666,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Nissan-LEAF/51896910,S Électrique A/C Sièges Chauffants Caméra
-59,Chevrolet Volt ,2018,103126,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Chevrolet-Volt/51990435,LT Hybride A/C Mags Sièges Chauffants Caméra
-60,Toyota Prius Prime ,2018,47101,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Toyota-Prius Prime/52413655,Prime A/C GPS Sièges Chauffants Caméra Bluetooth
-61,Toyota Prius C ,2018,25558,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Toyota-Prius c/52126563,C Technologie Hybride A/C Mags Cuir Toit GPS
-62,Chevrolet Bolt Ev ,2019,46301,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Chevrolet-Bolt EV/52127954,LT Électrique A/C Mags Sièges Chauffants Caméra
-63,Chevrolet Volt ,2015,74994,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2015-Chevrolet-Volt/52574897,Premier Hybride A/C Mags Cuir Sièges Chauffants
-64,Hyundai Ioniq Hybrid ,2019,81331,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Hyundai-Ioniq Hybrid/52149062,Hybrid Ultimate A/C Mags Cuir Toit GPS Caméra
-65,Toyota Camry Hybrid ,2019,79921,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Toyota-Camry Hybrid/52104090,SE Hybride A/C Mags Cuir Toit Sièges Chauffants
-66,Ford C-Max Energi ,2017,20658,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Ford-C-Max Energi/52367720,Energi SE Hybride AWD A/C Mags Sièges Chauffants
-67,Chrysler Pacifica Hybrid ,2018,40890,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Chrysler-Pacifica Hybrid/52178830,Touring L Hybride Cuir A/C Mags Sièges Chauffants
-68,Hyundai Sonata Plug-In Hybrid ,2016,82040,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-Hyundai-Sonata Plug-In Hybrid/52575281,Plug-In Hybrid Ultimate Cuir GPS Sièges Ventilés
-69,Nissan Leaf ,2018,54263,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Nissan-LEAF/52466980,SV A/C GPS CAMERA DE RECUL
-70,Bmw I3 ,2015,20789,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2015-BMW-I3/52479915,CUIR NAVI  20''
-71,Ford Fusion Energi ,2018,59000,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Ford-Fusion Energi/52510893,SE Luxury Plug In Energi A/C Mags Cuir Toit GPS
-72,Ford Fusion Energi ,2020,12719,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-Ford-Fusion Energi/52424063,SEL HYBRIDE MAGS CAMÉRA DE RECUL
-73,Hyundai Ioniq ,2017,73587,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-Hyundai-Ioniq/52511378,A/C MAGS NAV CAMERA DE RECUL
-74,Ford Fusion Energi ,2020,13743,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-Ford-Fusion Energi/52520477,SEL HYBRIDE MAGS CAMÉRA DE RECUL
-75,Toyota Prius Prime ,2019,47477,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-Toyota-Prius Prime/52608592,PRIME A/C CAMERA RECUL BLUETOOTH
-76,Kia Niro ,2018,39905,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Kia-Niro/52638413,SX TOURING HYBRID CUIR TOIT GPS
-77,Toyota Prius Prime ,2018,49100,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-Toyota-Prius Prime/52555357,PRIME A/C MAGS GPS CAMÉRA DE RECUL
+0,Tesla Model 3 Standard Range Plus,2019,86758,24498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/tesla-model-3-2019-a-vendre-82880867,N/A
+1,Hyundai Ioniq Ultimate,2020,74367,18498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/hyundai-ioniq-2020-a-vendre-82869762,N/A
+2,Tesla Model 3 Standard Range Plus,2019,46941,26798.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/tesla-model-3-2019-a-vendre-82864085,N/A
+3,Kia Niro Sx Touring,2020,92432,20798.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/kia-niro-2020-a-vendre-82892559,N/A
+4,Nissan Leaf Sv,2018,94674,13298.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/nissan-leaf-2018-a-vendre-82892524,N/A
+5,Chevrolet Bolt Ev Lt,2020,66830,19998.0,Carignan,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2020-a-vendre-82892162,N/A
+6,Chevrolet Bolt Ev Lt,2020,40986,20998.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2020-a-vendre-82892135,N/A
+7,Hyundai Ioniq Se Cold Climate Package,2018,101640,13398.0,Carignan,https://www.hgregoire.com/auto-usage/hyundai-ioniq-2018-a-vendre-82891958,N/A
+8,Chevrolet Bolt Ev Lt,2020,110601,17998.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2020-a-vendre-82891074,N/A
+9,Tesla Model 3 Standard Range Plus,2019,63435,25798.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/tesla-model-3-2019-a-vendre-82890903,N/A
+10,Hyundai Kona Preferred,2021,71926,22495.0,Drummondville,https://www.hgregoire.com/auto-usage/hyundai-kona-2021-a-vendre-82890835,N/A
+11,Chevrolet Bolt Ev Lt,2020,89297,19498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2020-a-vendre-82890701,N/A
+12,Nissan Leaf Sv,2022,38558,19498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/nissan-leaf-2022-a-vendre-82890699,N/A
+13,Nissan Leaf Sv,2018,107935,11998.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/nissan-leaf-2018-a-vendre-82890696,N/A
+14,Chevrolet Bolt Ev Lt,2020,85465,19498.0,Carignan,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2020-a-vendre-82890125,N/A
+15,Hyundai Ioniq Preferred,2020,74052,17995.0,Drummondville,https://www.hgregoire.com/auto-usage/hyundai-ioniq-2020-a-vendre-82890055,N/A
+16,Tesla Model 3 Standard Range Plus,2021,75426,27498.0,Carignan,https://www.hgregoire.com/auto-usage/tesla-model-3-2021-a-vendre-82889950,N/A
+17,Tesla Model 3 Rwd,2022,100599,26998.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/tesla-model-3-2022-a-vendre-82889948,N/A
+18,Chevrolet Bolt Ev Lt,2019,77068,19698.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/chevrolet-bolt-ev-2019-a-vendre-82889520,N/A
+19,Hyundai Kona Ultimate,2019,100365,19998.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/hyundai-kona-2019-a-vendre-82888875,N/A
+20,Ford Focus Electric,2018,57680,11498.0,Saint-Eustache,https://www.hgregoire.com/auto-usage/ford-focus-2018-a-vendre-82888011,N/A
+21,Nissan Leaf Sv Plus,2020,125959,18998.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/nissan-leaf-2020-a-vendre-82887174,N/A
+22,Kia Niro Sx Touring,2021,118950,23498.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/kia-niro-2021-a-vendre-82885773,N/A
+23,Tesla Model 3 Performance,2020,96441,32998.0,Saint-Léonard,https://www.hgregoire.com/auto-usage/tesla-model-3-2020-a-vendre-82885767,N/A
+24,Chevrolet Spark Ev ,2016,-1,7975.0,TBD,https://www.mtlautoprix.com/occasion/Chevrolet-Spark_EV-2016-id11352253.html,N/A
+25,Tesla Model 3 ,2019,-1,24975.0,TBD,https://www.mtlautoprix.com/occasion/Tesla-Model_3-2019-id11383276.html,N/A
+26,Mercedes-Benz Eqb 250+ ,2023,6550,48999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-mercedes-benz-eqb/W1N9M0CB1PN071125,
+27,Volvo Xc40 Recharge Pure Electric Plus Awd ,2022,48941,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-volvo-xc40-recharge-pure-electric/YV4ED3UR1N2705855,
+28,Tesla Model Y Long Range Awd ,2020,108782,33499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-y/5YJYGDEE1LF012061,
+29,Rivian R1S Adventure ,2024,2938,101999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-rivian-r1s/7PDSGBBA1RN040098,
+30,Nissan Leaf Sl ,2016,160527,5999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-nissan-leaf/1N4BZ0CP5GC309288,
+31,Ford Mustang Mach-E Premium Awd ,2021,79666,29499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-mustang-mach-e/3FMTK3SSXMMA04708,
+32,Rivian R1S Adventure Quad-Motor Large Pack 835Hp ,2024,10564,119999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-rivian-r1s/7PDSGABA5RN035013,
+33,Ford Fusion Hybrid Titanium ,2019,95980,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-ford-fusion-hybrid/3FA6P0RU9KR155828,
+34,Hyundai Kona Electric Preferred ,2021,88023,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG3MU099634,
+35,Volkswagen E-Golf Se ,2016,116912,11499.0,TBD,https://www.automobileendirect.com/auto-usage/2016-volkswagen-e-golf/WVWKP7AU4GW915861,
+36,Dodge Hornet R/T Eawd ,2024,12780,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-dodge-hornet/ZACPDFCW9R3A13513,
+37,Hyundai Kona Electric Preferred ,2021,89157,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG5MU119169,
+38,Volkswagen Id.4 Pro ,2023,24747,35499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-volkswagen-id.4/1V2CMPE88PC013224,
+39,Hyundai Ioniq Electric Preferred ,2019,59660,16499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC85LH2KU042648,
+40,Tesla Model 3 Long Range Awd ,2022,99079,34499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EB9NF172745,
+41,Toyota Corolla Hybrid Le ,2023,56589,29499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE0P3017464,
+42,Tesla Model 3 Performance Awd ,2021,47131,40999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EC6MF071587,
+43,Tesla Model S Plaid Awd ,2021,57936,77999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-s/5YJSA1E64MF447575,
+44,Chevrolet Equinox Ev Lt ,2024,8232,42999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-chevrolet-equinox-ev/3GN7DMRP9RS258993,
+45,Hyundai Ioniq Electric Ultimate ,2019,117531,15499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC05LH3KU038809,
+46,Chevrolet Bolt Euv Premier ,2023,24702,30999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-chevrolet-bolt-euv/1G1FZ6S00P4135121,
+47,Dodge Hornet R/T Plus Phev Eawd ,2024,33607,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-dodge-hornet/ZACPDFDW4R3A12476,
+48,Volvo Xc90 Inscription Expression Awd ,2021,129924,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-volvo-xc90/YV4BR0CL6M1728486,
+49,Volvo Xc40 B5 Plus Bright Theme Awd ,2023,44515,38999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-volvo-xc40/YV4L12UN0P2913929,
+50,Hyundai Kona Electric Preferred ,2021,137605,18499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG7MU104687,
+51,Hyundai Kona Electric Ultimate ,2021,92621,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K33AG9MU114859,
+52,Jeep Wrangler Unlimited Sport Altitude 4X4 ,2022,88460,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-jeep-wrangler/1C4HJXDG9NW179613,
+53,Tesla Model S Long Range Awd ,2022,32026,73999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-s/5YJSA1E56NF467724,
+54,Hyundai Kona Electric Ultimate ,2019,118077,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-kona-electric/KM8K33AGXKU051462,
+55,Audi A5 Technik Awd ,2021,95026,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-audi-a5-coupe/WAUUAAF56MA024792,
+56,Tesla Model 3 Standard Range ,2022,111598,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EA5NF258447,
+57,Tesla Model 3 Long Range Awd ,2022,85890,35499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EBXNF178991,
+58,Kia Soul Ev Luxury ,2018,98805,14999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-kia-soul-ev/KNDJX3AE6J7034321,
+59,Nissan Leaf Sv ,2019,93936,15999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP9KC320868,
+60,Tesla Model 3 Long Range ,2019,138481,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EA5KF326810,
+61,Audi A4 Technik Awd ,2021,127436,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-audi-a4/WAUFAAF49MA043997,
+62,Chevrolet Bolt Euv Lt ,2022,99884,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-chevrolet-bolt-euv/1G1FY6S06N4115262,
+63,Hyundai Ioniq Electric Ultimate ,2020,77396,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-hyundai-ioniq-electric/KMHC05LJ8LU061619,
+64,Volkswagen E-Golf Comfortline ,2020,37755,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-volkswagen-e-golf/WVWPR7AU7LW901365,
+65,Hyundai Ioniq 5 Preferred ,2022,47684,32999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-ioniq-5/KM8KN4AB1NU071723,
+66,Toyota Rav4 Prime Xse Awd ,2022,44550,48999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-toyota-rav4-prime/JTMGB3FV4ND098009,
+67,Tesla Model 3 Standard Range Plus ,2019,128578,23499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EA9KF466679,
+68,Hyundai Ioniq Electric Preferred ,2020,82895,18999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-hyundai-ioniq-electric/KMHC75LJ1LU064101,
+69,Hyundai Tucson Hybrid Limited Awd ,2022,109145,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-tucson-hybrid/KM8JCCA11NU033816,
+70,Hyundai Ioniq Electric Ultimate ,2020,46699,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-hyundai-ioniq-electric/KMHC05LJ9LU066327,
+71,Kia Sportage Plug-In Ex Premium Awd ,2023,81867,39999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-kia-sportage-plug-in/KNDPVDAH9P7060002,
+72,Hyundai Ioniq Electric Ultimate ,2019,90764,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC05LH2KU051275,
+73,Nissan Leaf Sv ,2020,67260,18999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-nissan-leaf/1N4AZ1CP2LC300060,
+74,Kia Niro Ev Sx Touring ,2019,129710,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-kia-niro-ev/KNDCE3LG5K5009730,
+75,Volkswagen Id.4 Pro Awd ,2022,40428,38499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-volkswagen-id.4/WVGUNPE28NP073083,
+76,Hyundai Ioniq Electric Preferred ,2019,106816,15999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC85LH8KU036398,
+77,Nissan Leaf S ,2019,63560,15999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP5KC301783,
+78,Tesla Model S Plaid Awd ,2022,36101,88999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-s/5YJSA1E6XNF483644,
+79,Polestar 2 Long Range Single Motor ,2024,79737,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-polestar-2/YSMFE3KA0RL219799,
+80,Polestar 2 Long Range Single Motor ,2024,62840,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-polestar-2/YSMFE3KA6RL228779,
+81,Audi A3 E-Tron Technik Fwd ,2017,79911,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2017-audi-a3-e-tron/WAUSPBFF4HA098643,
+82,Mitsubishi Outlander Phev Se ,2018,173410,14999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-mitsubishi-outlander-phev/JA4J24A5XJZ610060,
+83,Nissan Leaf Sv ,2019,83656,16499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP9KC304122,
+84,Toyota Camry Hybrid Le ,2024,45457,36999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-toyota-camry-hybrid/4T1C31AK0RU622142,
+85,Ford Fusion Hybrid Titanium ,2018,81428,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-ford-fusion-hybrid/3FA6P0RU5JR215442,
+86,Chevrolet Bolt Ev Lt ,2019,84252,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-chevrolet-bolt-ev/1G1FY6S00K4119786,
+87,Tesla Model Y Long Range Awd ,2021,46273,39999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-y/5YJYGDEE3MF109327,
+88,Tesla Model S Plaid Awd ,2022,37412,84999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-s/5YJSA1E68NF458791,
+89,Nissan Leaf Sv ,2019,76471,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP1KC320699,
+90,Tesla Model Y Long Range Awd ,2021,96630,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-y/5YJYGDEEXMF064547,
+91,Nissan Leaf Sl Plus ,2023,84339,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-nissan-leaf/1N4CZ1DV4PC550315,
+92,Nissan Leaf Sv ,2016,106734,8999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-nissan-leaf/1N4BZ0CP3GC314666,
+93,Nissan Leaf Sl ,2019,74904,18999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP1KC301652,
+94,Tesla Model Y Performance Awd ,2022,86066,45499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEFXNF409122,
+95,Tesla Model Y Performance Awd ,2022,25578,49499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEF2NF367416,
+96,Toyota Sienna Le Awd ,2023,71791,53499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-sienna/5TDGSKFC7PS095749,
+97,Chevrolet Bolt Ev Lt ,2019,42354,22499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-chevrolet-bolt-ev/1G1FY6S0XK4144761,
+98,Tesla Model 3 Standard Range Plus ,2021,112055,27499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EA0MF853530,
+99,Tesla Model 3 Standard Range Plus ,2021,99734,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EA3MF852453,
+100,Ram 1500 Big Horn 4X4 ,2022,44914,40999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-ram-1500/1C6RRFFG0NN127577,Boîte de 5.6 pieds
+101,Ford E-Transit Cargo Van T-350 Empattement Long ,2023,29386,54999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-ford-e-transit-cargo-van/1FTBW1YK0PKA53606,
+102,Volvo Xc60 R-Design ,2021,64635,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-volvo-xc60/LYVBR0DM7MB680872,
+103,Tesla Model Y Long Range Awd ,2022,80613,42999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEEXNF372175,
+104,Toyota Corolla Hybrid Le ,2023,60138,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE6PJ008277,
+105,Toyota Corolla Hybrid Le Fwd ,2023,60584,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE4P3025812,
+106,Nissan Leaf Sv ,2019,92615,15999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP7KC301509,
+107,Nissan Leaf Sv ,2020,43431,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-nissan-leaf/1N4AZ1CP9LC300105,
+108,Kia Niro Plug-In Ex Premium ,2020,73199,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-kia-niro-plug-in/KNDCD3LD0L5446495,
+109,Volkswagen Id.4 Pro Awd ,2022,17554,39499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-volkswagen-id.4/WVGJNPE25NP069298,
+110,Chevrolet Bolt Euv Premier ,2023,82391,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-chevrolet-bolt-euv/1G1FZ6S04P4138698,
+111,Hyundai Santa Fe Hybrid Luxury ,2023,9188,38999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-hyundai-santa-fe-hybrid/KM8S5DA10PU100039,
+112,Nissan Leaf Sv ,2019,104163,15499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP1KC306799,
+113,Kia Niro Ev Sx Touring ,2020,43125,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-kia-niro-ev/KNDCE3LG0L5055595,
+114,Hyundai Kona Electric Preferred ,2022,34902,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-kona-electric/KM8K23AG6NU158824,
+115,Kia Niro Ev Ex ,2021,90102,23499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-kia-niro-ev/KNDCC3LG9M5094368,
+116,Tesla Model 3 Standard Range Plus ,2021,48088,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EA4MF838609,
+117,Tesla Model S Plaid Awd ,2021,46141,78999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-s/5YJSA1E69MF455509,
+118,Toyota Corolla Hybrid Le ,2023,80944,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFEXP3018590,
+119,Toyota Corolla Hybrid Le ,2023,80464,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE4PJ006558,
+120,Toyota Camry Hybrid Le ,2023,64300,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-camry-hybrid/4T1C31AK7PU611443,
+121,Tesla Model Y Long Range Awd ,2023,44814,47999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-y/7SAYGDEEXPF611095,
+122,Tesla Model X Awd ,2023,10644,90999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-x/7SAXCDE58PF419486,
+123,Mitsubishi Outlander Phev Se S-Awc ,2018,99229,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-mitsubishi-outlander-phev/JA4J24A52JZ616841,
+124,Mitsubishi Outlander Phev Le ,2022,104147,25499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-mitsubishi-outlander-phev/JA4J2VA7XNZ606992,
+125,Tesla Model 3 Long Range Awd ,2022,172603,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EB6NF276495,
+126,Toyota Corolla Hybrid Le ,2023,79837,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE7P3013170,
+127,Kia Niro Ex ,2019,106770,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-kia-niro/KNDCC3LCXK5247575,
+128,Kia Niro Plug-In Ex Premium ,2019,94674,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-kia-niro-plug-in/KNDCD3LD9K5299480,
+129,Tesla Model 3 Standard Range Plus ,2019,155118,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EA1KF403172,
+130,Hyundai Kona Electric Preferred ,2021,91891,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG6MU129001,
+131,Ford Escape Se Plug-In Hybrid ,2021,79214,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-escape/1FMCU0EZ1MUA91475,
+132,Toyota Prius Prime  ,2022,57173,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-toyota-prius-prime/JTDKAMFP8N3204746,
+133,Toyota Corolla Hybrid Le ,2023,57463,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE2P3014582,
+134,Tesla Model Y Long Range Awd ,2023,104429,42999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-y/7SAYGDEE6PF588222,
+135,Audi E-Tron Technik Quattro ,2023,107585,49999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-audi-e-tron/WA1VAAGE8PB001948,
+136,Toyota Highlander Hybrid Limited Awd ,2023,39900,56999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-highlander/5TDXBRCH4PS129199,
+137,Hyundai Kona Electric Essential ,2021,78329,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG5MU106809,
+138,Ford F-150 Lariat Supercrew 4X4 ,2021,90335,44999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-f-150/1FTFW1ED4MFC54873,Boîte de 6.5 pieds
+139,Hyundai Elantra Hybrid Ultimate ,2022,87918,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-elantra-hybrid/KMHLN4AJ8NU015757,
+140,Audi Q5 Komfort ,2022,35529,31999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-audi-q5/WA1AAAFY1N2004049,
+141,Nissan Leaf S ,2016,77343,6999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-nissan-leaf/1N4BZ0CP8GC312573,
+142,Tesla Model 3 Long Range Awd ,2020,114889,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EB9LF628918,
+143,Tesla Model 3 Long Range Awd ,2020,124350,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EB9LF628949,
+144,Chevrolet Bolt Euv Lt ,2023,39117,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-chevrolet-bolt-euv/1G1FY6S07P4137905,
+145,Hyundai Kona Electric Ultimate ,2019,137872,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-kona-electric/KM8K33AG5KU021611,
+146,Hyundai Kona Electric Preferred ,2021,91696,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG0MU123646,
+147,Hyundai Kona Electric Ultimate ,2021,85722,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K33AG3MU100911,
+148,Chevrolet Bolt Ev Lt ,2020,52420,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chevrolet-bolt-ev/1G1FY6S03L4130914,
+149,Hyundai Ioniq Electric Ultimate ,2021,73620,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-ioniq-electric/KMHC05LJ8MU078180,
+150,Chevrolet Bolt Ev Lt ,2021,67381,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-chevrolet-bolt-ev/1G1FY6S07M4105452,
+151,Mitsubishi Outlander Phev Se S-Awc ,2021,123850,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-mitsubishi-outlander-phev/JA4J2VA70MZ600133,
+152,Ford Mustang Mach-E Premium Awd ,2022,95479,31999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-ford-mustang-mach-e/3FMTK3SU5NMA00021,
+153,Chrysler Pacifica Hybrid Limited ,2022,48275,41999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-chrysler-pacifica-hybrid/2C4RC1S72NR165480,
+154,Jeep Wagoneer Series Ii 4X4 ,2022,87626,52999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-jeep-wagoneer/1C4SJVBTXNS140742,
+155,Tesla Model 3 Long Range Awd ,2023,48644,40999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-3/5YJ3E1EB4PF416773,
+156,Tesla Model S Performance ,2014,123317,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2014-tesla-model-s/5YJSA1H19EFP37957,
+157,Ford Fusion Hybrid Se ,2016,107046,12999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-ford-fusion-hybrid/3FA6P0LU7GR347510,
+158,Kia Niro Ev Sx Touring ,2019,103019,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-kia-niro-ev/KNDCE3LGXK5012333,
+159,Chevrolet Bolt Ev Lt ,2020,111447,18999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chevrolet-bolt-ev/1G1FY6S01L4101086,
+160,Ford Maverick Xlt ,2022,111104,27499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-ford-maverick/3FTTW8E37NRA52228,
+161,Tesla Model Y Long Range Awd ,2022,75991,43499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEE0NF371651,
+162,Chevrolet Bolt Ev Lt ,2023,19550,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-chevrolet-bolt-ev/1G1FW6S02P4153869,
+163,Toyota Camry Hybrid Se ,2023,83337,33499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-camry/4T1B21HK7PU018945,
+164,Chevrolet Volt  ,2014,138721,10999.0,TBD,https://www.automobileendirect.com/auto-usage/2014-chevrolet-volt/1G1RA6E49EU168229,
+165,Chevrolet Bolt Ev Premier ,2019,128007,18499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-chevrolet-bolt-ev/1G1FZ6S00K4102824,
+166,Volkswagen E-Golf Comfortline ,2020,59345,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-volkswagen-e-golf/WVWPR7AU4LW902831,
+167,Tesla Model 3 Standard Range Plus ,2020,99667,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EA1LF530814,
+168,Tesla Model 3 Standard Range Plus ,2020,109749,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EA5LF607121,
+169,Tesla Model 3 Standard Range Plus ,2020,87152,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EA4LF715696,
+170,Chrysler Pacifica Hybrid Touring-L ,2020,111491,30499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chrysler-pacifica-hybrid/2C4RC1L77LR127514,
+171,Tesla Model 3 Standard Range Plus ,2021,94478,27499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EAXMF848688,
+172,Tesla Model 3 Standard Range Plus ,2021,46863,29999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EA0MF848652,
+173,Audi Q5 Progressiv Quattro ,2021,78604,32999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-audi-q5/WA1EAAFY6M2003611,
+174,Ford F-150 Lightning Lariat 4Wd ,2022,79501,56999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-ford-f-150-lightning/1FT6W1EV4NWG13035,
+175,Toyota Corolla Hybrid Le ,2023,79590,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla/JTDBCMFE3P3012890,
+176,Volkswagen Id.4 Pro Awd ,2023,26714,39499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-volkswagen-id.4/1V28NPE81PC010071,
+177,Toyota Rav4 Prime Xse Awd ,2023,36642,48499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-rav4-prime/JTMGB3FV3PD161796,
+178,Ford Escape Sel Plug-In Hybrid ,2021,12984,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-escape/1FMCU0KZ2MUA80120,
+179,Hyundai Ioniq Plug-In Preferred ,2022,85234,25499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-ioniq-plug-in/KMHC65LD1NU279266,
+180,Kia Niro Plug-In Ex Fwd ,2022,32601,27999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-kia-niro-plug-in/KNDCD3LD0N5491956,
+181,Volvo Xc60 R-Design Awd ,2022,44750,40999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-volvo-xc60/LYV062RM3NB922093,
+182,Tesla Model 3 Long Range Awd ,2022,32695,41999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EB1NF110630,
+183,Tesla Model Y Long Range Awd ,2022,98055,41999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEE0NF318058,
+184,Tesla Model Y Long Range Awd ,2022,40033,46999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEE5NF439782,
+185,Chevrolet Bolt Ev Lt ,2022,39100,25499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-chevrolet-bolt-ev/1G1FW6S03N4101650,
+186,Tesla Model 3 Standard Range ,2022,61533,31499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EA2NF164462,
+187,Toyota Sienna Le ,2023,75437,51999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-sienna/5TDGSKFC2PS095304,
+188,Chevrolet Bolt Ev Lt ,2020,99464,19499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chevrolet-bolt-ev/1G1FY6S01L4125677,
+189,Mitsubishi Outlander Phev Sel 4Wd ,2020,107431,23499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-mitsubishi-outlander-phev/JA4J24A56LZ604601,
+190,Tesla Model 3 Standard Range Plus ,2021,54693,29499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EA5MF090100,
+191,Jeep Wagoneer Series Ii ,2022,93263,53499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-jeep-wagoneer/1C4SJVBT2NS134143,
+192,Toyota Sienna Le Awd ,2023,68356,52499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-sienna/5TDGSKFC0PS095608,
+193,Nissan Leaf Sl ,2018,129848,14999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-nissan-leaf/1N4AZ1CP6JC301788,
+194,Nissan Leaf Sv ,2019,61804,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP2KC315401,
+195,Chevrolet Volt Lt ,2019,30438,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-chevrolet-volt/1G1RA6S51KU106302,
+196,Kia Niro Plug-In Ex Premium ,2020,131385,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-kia-niro-plug-in/KNDCD3LD8L5428603,
+197,Hyundai Kona Electric Preferred ,2021,123544,20499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG4MU134732,
+198,Tesla Model 3 Long Range Awd ,2021,96982,30499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EB2MF858706,
+199,Tesla Model Y Long Range Awd ,2021,104466,36499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-y/5YJYGDEEXMF116839,
+200,Kia Niro Ev Ex ,2022,108422,23499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-kia-niro-ev/KNDCC3LG4N5139881,
+201,Hyundai Elantra Hybrid Luxury ,2023,37715,27499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-hyundai-elantra-hybrid/KMHLN4AJ7PU071580,
+202,Hyundai Ioniq Electric Preferred ,2019,117143,14999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC85LH7KU031872,
+203,Nissan Leaf Sv ,2019,54360,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CP4KC320681,
+204,Tesla Model S Awd ,2022,54032,71999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-s/5YJSA1E58NF493225,
+205,Nissan Leaf Sv Plus ,2023,55124,24999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-nissan-leaf/1N4CZ1CV6PC561432,
+206,Kia Niro Ev Limited ,2023,50549,31999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-kia-niro-ev/KNDCT3L13P5065917,
+207,Tesla Model 3 Standard Range ,2023,52220,32999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-3/5YJ3E1EA9PF408644,
+208,Nissan Ariya Evolve E-4Orce Awd ,2023,8386,39999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-nissan-ariya/JN1CF0BB8PM705192,
+209,Tesla Model Y Long Range Awd ,2023,15960,49999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-y/7SAYGAEE1PF785958,
+210,Chevrolet Volt Lt ,2019,93798,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-chevrolet-volt/1G1RA6S54KU109629,
+211,Tesla Model 3 Standard Range Plus ,2019,106618,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EA2KF322150,
+212,Honda Accord Hybrid  ,2019,129974,24499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-honda-accord-hybrid/1HGCV3F76KA800014,
+213,Tesla Model 3 Standard Range Plus ,2019,66476,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EA9KF515105,
+214,Hyundai Ioniq Electric Preferred ,2020,111466,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-hyundai-ioniq-electric/KMHC75LJ6LU075112,
+215,Kia Soul Ev Ev Limited ,2021,92085,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-kia-soul-ev/KNDJ33A13M7014198,
+216,Tesla Model Y Long Range Awd ,2021,110683,36499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-y/5YJYGDEE3MF116844,
+217,Tesla Model 3 Long Range Awd ,2022,52953,36999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EB4NF127535,
+218,Hyundai Elantra Hybrid Luxury ,2023,23734,26499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-hyundai-elantra-hybrid/KMHLN4AJ0PU034712,
+219,Tesla Model Y Long Range Awd ,2023,9495,49999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-tesla-model-y/7SAYGDEE9PF959017,
+220,Toyota Bz4X Xle Awd ,2024,27449,38999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-toyota-bz4x/JTMABACA2RA047918,
+221,Nissan Leaf Sv ,2019,62859,16999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-nissan-leaf/1N4AZ1CPXKC315467,
+222,Hyundai Kona Electric Ultimate ,2019,86217,19999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-kona-electric/KM8K33AGXKU020745,
+223,Mini Countryman Cooper S E ,2019,59500,22999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-mini-countryman/WMZYU7C5XK3F93510,
+224,Volkswagen E-Golf Comfortline ,2020,105358,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-volkswagen-e-golf/WVWPR7AU2LW901189,
+225,Kia Niro Ev Sx Touring ,2020,82054,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-kia-niro-ev/KNDCE3LG8L5057563,
+226,Tesla Model 3 Long Range ,2018,63873,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2018-tesla-model-3/5YJ3E1EA2JF095833,
+227,Mazda Mx-30 Ev Gt ,2022,18604,21999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-mazda-mx-30-ev/JM1DRADB7N0101164,
+228,Hyundai Tucson Hybrid Ultimate Awd ,2022,106292,28999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-hyundai-tucson-hybrid/KM8JCCA14NU050058,
+229,Toyota Rav4 Hybrid Xle Awd ,2022,65200,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-toyota-rav4-hybrid/2T3RWRFVXNW132795,
+230,Genesis Gv60 Performance Awd ,2023,33311,48999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-genesis-gv60/KMUKEDTB1PU006551,
+231,Tesla Model 3 Standard Range Plus ,2019,122190,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-tesla-model-3/5YJ3E1EAXKF323904,
+232,Chevrolet Bolt Ev Lt ,2020,109742,20499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chevrolet-bolt-ev/1G1FY6S01L4123850,
+233,Chevrolet Bolt Ev Lt ,2020,86481,21499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-chevrolet-bolt-ev/1G1FY6S01L4145766,
+234,Ford Escape Titanium Plug-In Hybrid ,2021,62505,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-escape/1FMCU0LZ6MUA80328,
+235,Tesla Model Y Performance Awd ,2021,70310,42999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-y/5YJYGDEF0MF083939,
+236,Mitsubishi Outlander Phev Sel 4Wd ,2020,93044,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-mitsubishi-outlander-phev/JA4J24A55LZ606954,
+237,Tesla Model 3 Standard Range Plus ,2020,99357,25999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EA3LF625892,
+238,Ford Mustang Mach-E Select ,2022,44647,32999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-ford-mustang-mach-e/3FMTK1SS6NMA40546,
+239,Tesla Model Y Long Range Awd ,2022,82157,42499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-y/7SAYGDEE6NF572650,
+240,Volkswagen Id.4 Pro Awd ,2023,39411,38999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-volkswagen-id.4/1V2JNPE82PC051004,
+241,Mitsubishi Outlander Phev Sel S-Awc ,2020,75923,23999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-mitsubishi-outlander-phev/JA4J24A53LZ605723,
+242,Tesla Model 3 Standard Range Plus ,2020,84318,26999.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-3/5YJ3E1EA9LF734132,
+243,Polestar 2 Long Range Awd ,2023,59929,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-polestar-2/YSMED3KA2PL115570,
+244,Mercedes-Benz Eqb 250+ ,2023,6550,48999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-mercedes-benz-eqb/W1N9M0CB1PN071125,
+245,Volvo Xc40 Recharge Pure Electric Plus Awd ,2022,48941,37999.0,TBD,https://www.automobileendirect.com/auto-usage/2022-volvo-xc40-recharge-pure-electric/YV4ED3UR1N2705855,
+246,Tesla Model Y Long Range Awd ,2020,108782,33499.0,TBD,https://www.automobileendirect.com/auto-usage/2020-tesla-model-y/5YJYGDEE1LF012061,
+247,Rivian R1S Adventure ,2024,2938,101999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-rivian-r1s/7PDSGBBA1RN040098,
+248,Nissan Leaf Sl ,2016,160527,5999.0,TBD,https://www.automobileendirect.com/auto-usage/2016-nissan-leaf/1N4BZ0CP5GC309288,
+249,Ford Mustang Mach-E Premium Awd ,2021,79666,29499.0,TBD,https://www.automobileendirect.com/auto-usage/2021-ford-mustang-mach-e/3FMTK3SSXMMA04708,
+250,Rivian R1S Adventure Quad-Motor Large Pack 835Hp ,2024,10564,119999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-rivian-r1s/7PDSGABA5RN035013,
+251,Ford Fusion Hybrid Titanium ,2019,95980,17999.0,TBD,https://www.automobileendirect.com/auto-usage/2019-ford-fusion-hybrid/3FA6P0RU9KR155828,
+252,Hyundai Kona Electric Preferred ,2021,88023,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG3MU099634,
+253,Volkswagen E-Golf Se ,2016,116912,11499.0,TBD,https://www.automobileendirect.com/auto-usage/2016-volkswagen-e-golf/WVWKP7AU4GW915861,
+254,Dodge Hornet R/T Eawd ,2024,12780,33999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-dodge-hornet/ZACPDFCW9R3A13513,
+255,Hyundai Kona Electric Preferred ,2021,89157,20999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-hyundai-kona-electric/KM8K23AG5MU119169,
+256,Volkswagen Id.4 Pro ,2023,24747,35499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-volkswagen-id.4/1V2CMPE88PC013224,
+257,Hyundai Ioniq Electric Preferred ,2019,59660,16499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC85LH2KU042648,
+258,Tesla Model 3 Long Range Awd ,2022,99079,34499.0,TBD,https://www.automobileendirect.com/auto-usage/2022-tesla-model-3/5YJ3E1EB9NF172745,
+259,Toyota Corolla Hybrid Le ,2023,56589,29499.0,TBD,https://www.automobileendirect.com/auto-usage/2023-toyota-corolla-hybrid/JTDBCMFE0P3017464,
+260,Tesla Model 3 Performance Awd ,2021,47131,40999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-3/5YJ3E1EC6MF071587,
+261,Tesla Model S Plaid Awd ,2021,57936,77999.0,TBD,https://www.automobileendirect.com/auto-usage/2021-tesla-model-s/5YJSA1E64MF447575,
+262,Chevrolet Equinox Ev Lt ,2024,8232,42999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-chevrolet-equinox-ev/3GN7DMRP9RS258993,
+263,Hyundai Ioniq Electric Ultimate ,2019,117531,15499.0,TBD,https://www.automobileendirect.com/auto-usage/2019-hyundai-ioniq-electric/KMHC05LH3KU038809,
+264,Chevrolet Bolt Euv Premier ,2023,24702,30999.0,TBD,https://www.automobileendirect.com/auto-usage/2023-chevrolet-bolt-euv/1G1FZ6S00P4135121,
+265,Dodge Hornet R/T Plus Phev Eawd ,2024,33607,35999.0,TBD,https://www.automobileendirect.com/auto-usage/2024-dodge-hornet/ZACPDFDW4R3A12476,
